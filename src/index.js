@@ -1,1 +1,6 @@
-import './index.css'
+import './index.css';
+import getScores from './modules/score.js';
+
+const scoresTable = document.querySelector('.scores');
+
+getScores(scoresTable);
