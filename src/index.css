@@ -56,19 +56,18 @@ h2 {
 
 .scores p {
   margin: 0;
-  /* padding: 2%; */
   font-size: 1.3rem;
   font-weight: bold;
 }
 
 .score,
-li:nth-child(even) {
-  background-color: rgb(159, 100, 100);
+li {
+  padding: 2px 4px;
 }
 
 .score,
-li {
-  padding: 2px 4px;
+li:nth-child(even) {
+  background-color: rgb(159, 100, 100);
 }
 
 .container1 {
@@ -188,4 +187,3 @@ li:hover {
     font-size: 20px;
   }
 }
-

@@ -36,12 +36,15 @@
 
 # 📖 [setup webpack] <a name="about-project"></a>
 
-**setup webpack** is a project created to demonstrate the ability to set up webpack.
+**LeaderBoard** is a solo programming project that highlights the use of Webpack to bundle JavaScript, ES6 syntax, API, callbacks and promise.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
+**Html**
+**css**
+**JavaScript**
+**Webpack**
 <details>
   <summary>Client</summary>
   <ul>
@@ -69,7 +72,9 @@
 
 - **Linters was setup to ensure standard coding practices**
 - **Gitignore was used to hide some irrelevant files**
-- **GitHub flow was used for understanding of the reading of the code**
+- **Gitflow used**
+- **Dynamically loading with javascript.**
+- **Apply module bundler (Webpack).**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +82,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link] coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,18 +92,23 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+**Install**
+Install this project with:
 
-In order to run this project you need:
+Installed Git.
+Create a local directory that you want to clone the repository.
+Open the command prompt in the created directory.
+On the terminal run this command git clone https://github.com/TaiwoEnoch/Leaderboard-project.git
+Run npm i --save-dev to Install the dev dependencies
 
- You can clone this repository in your terminal
+Usage
+To run the project, execute the following command: npm run build
 
-### Setup
+Run tests
+To run tests, run the following command: npm run test
 
-Clone this repository to your desired folder:
-
-  cd setup-webpack
-  git clone https://github.com/TaiwoEnoch/setup-webpack.git
+Deployment
+You can deploy this project using: npm run deploy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,10 +135,11 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **More implementation of JavaScript**
+- [ ] **Add Score to the table. via API**
 - [ ] **Using of JavaScript Framework**
 - [ ] **Using of CSS framework**
 - [ ] **Using of HTML framework**
+- [ ] **Integrate back-end**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
