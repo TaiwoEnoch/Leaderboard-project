@@ -4,9 +4,30 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-<script defer src="main.bundle.js"></script></head>
+  <title>Leaderboard Project</title>
+<script defer src="main.bundle.js"></script><script defer src="main.bundle.js"></script><script defer src="main.bundle.js"></script></head>
 <body>
-  <h2>Awesome Bro</h2>
+  <h1>Leaderboard</h1>
+  <section class="board">
+    <div class="container">
+      <div class="recent-score">
+        <h2>Recent scores</h2>
+        <button type="button" id="refreshBtn">Refresh</button>
+      </div>
+      <div class="scores">
+        <ul class="list-container">
+          
+        </ul>
+      </div>
+    </div>
+    <div class="container1">
+      <h2>Add your score</h2>
+      <form action="" id="addScore">
+        <input type="text" id="name" placeholder="Your name" required>
+        <input type="number" id="scores" placeholder="Your score" required>
+        <button type="submit" id="submitBtn">Submit</button>
+      </form>
+    </div>
+  </section> 
 </body>
 </html>
