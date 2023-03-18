@@ -3,6 +3,6 @@ export const baseAPI = 'https://us-central1-js-capstone-backend.cloudfunctions.n
 const getScores = async () => {
   const scoreList = await fetch(baseAPI);
   return scoreList;
-}
+};
 
 export default getScores;
