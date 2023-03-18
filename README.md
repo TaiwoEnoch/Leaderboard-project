@@ -116,17 +116,11 @@ You can deploy this project using: npm run deploy
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Taiwo Enoch**
+👤 **Enoch Taiwo**
 
 - GitHub: [@TaiwoEnoch](https://github.com/TaiwoEnoch)
 - Twitter: [@TaiwoEnoch4](https://twitter.com/taiwoenoch4)
 - LinkedIn: [@TaiwoEnoch](https://linkedin.com/in/https://www.linkedin.com/in/taiwo-enoch-b88550222/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [@LinkedIn](https://linkedin.com/in/https:/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
