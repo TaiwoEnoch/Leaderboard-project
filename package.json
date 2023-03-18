@@ -21,6 +21,7 @@
   "homepage": "https://github.com/TaiwoEnoch/setup-webpack#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
+    "hint": "^7.1.5",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.76.0",
